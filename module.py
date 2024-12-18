@@ -2,6 +2,7 @@ import pyautogui
 import time
 import random
 
+#global
 count = 0
 
 while True:
